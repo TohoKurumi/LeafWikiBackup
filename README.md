@@ -3,7 +3,7 @@
 本仓库是 [ShimoMinamiZawaWiki](https://nanze.click) 的**自动内容备份**。每两小时检查一次更新的内容，并推送到本仓库。
 
 - **在线站点**：https://nanze.click
-- **备份内容**：仅包含 Wiki 页面的 Markdown 源文件、目录和图片文件，不包含用户账户、评论等数据库信息。
+- **备份内容**：仅包含 Wiki 页面的 Markdown 源文件、目录和图片文件，不包含 SQlite 数据库信息。
 - **许可协议**：本仓库内容采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议进行许可。
 
 ## 说明
