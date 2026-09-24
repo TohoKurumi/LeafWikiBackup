@@ -3,7 +3,7 @@ tags: []
 leafwiki_id: _Yp_1asDR
 leafwiki_title: Windows
 leafwiki_created_at: "2026-08-08T13:38:53.2426688Z"
-leafwiki_updated_at: "2026-09-19T07:09:23.5253757Z"
+leafwiki_updated_at: "2026-09-24T15:21:33.4095034Z"
 leafwiki_creator_id: czdX0csDR
 leafwiki_last_author_id: czdX0csDR
 ---
@@ -21,7 +21,7 @@ leafwiki_last_author_id: czdX0csDR
 
 ##  一、Levilauncher 启动器 (推荐) 
 
-- **特色**：支持 Levilamina 加载器的客户端模组，服务器列表管理，集成 Lip、CurseForge 资源下载入口和编辑存档元数据等功能。具体可参阅下面链接和 github 项目主页。
+- **特色**：支持 Levilamina 加载器的客户端模组，服务器列表管理，集成 Bedrinth（LL 模组专用平台）、CurseForge 资源下载入口和编辑存档元数据等功能。具体可参阅下面链接和 github 项目主页。
 
   **官网链接**：<https://levilauncher.levimc.org/zh-CN>
 
@@ -35,7 +35,7 @@ leafwiki_last_author_id: czdX0csDR
 <img src="/assets/_Yp_1asDR/picsart-08-20-08-36-27.jpg" width="339.6">
   - 下载完成后回到原来的版本下载列表会显示“安装”，点击安装。
 <img src="/assets/_Yp_1asDR/picsart-08-20-08-38-54.jpg" width="339.6">
-  - 安装界面会有个安装 Levilamina 的选项，如果你想使用 Levilamina 客户端模组（如小地图，投影等）推荐打开。
+  - 安装界面会有个安装 Levilamina 的选项，如果你想使用 Levilamina 客户端模组（LL 模组如小地图，投影等）推荐打开。
 <img src="/assets/_Yp_1asDR/picsart-08-20-09-43-43.jpg" width="339.6">
   - `lip` 是 levilamina 的模组包管理器，如果提醒 `lip` 未安装可以按提示下载安装。安装完后就可以启动游戏了。
 <img src="/assets/_Yp_1asDR/picsart-08-20-09-37-25.jpg" width="339.6">
