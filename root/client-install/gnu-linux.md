@@ -3,7 +3,7 @@ tags: []
 leafwiki_id: mI5kb-sDg
 leafwiki_title: GNU/Linux
 leafwiki_created_at: "2026-08-08T13:42:41.1222464Z"
-leafwiki_updated_at: "2026-09-19T08:30:21.544196Z"
+leafwiki_updated_at: "2026-09-25T16:10:11.27438Z"
 leafwiki_creator_id: czdX0csDR
 leafwiki_last_author_id: czdX0csDR
 ---
@@ -28,3 +28,7 @@ paru -S bedrockboot
 1. **下载依赖**：初次进入启动器时，需要下载 `ProtonGDK` 游戏运行依赖。
 2. **版本调度**：进入“下载”模块，下载所需的基岩版版本或资源包。
 3. **启动执行**：配置实例参数后，点击启动即可进入游戏。
+
+<br>
+
+剩下的版本下载步骤与 [[Windows]] 页的 BedrockBoot 一致。 
