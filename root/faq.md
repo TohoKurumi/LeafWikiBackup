@@ -3,11 +3,12 @@ tags: []
 leafwiki_id: ikV-_AUvg
 leafwiki_title: 疑难杂症
 leafwiki_created_at: "2026-08-19T22:30:11.7468445Z"
-leafwiki_updated_at: "2026-09-19T07:07:06.4153723Z"
+leafwiki_updated_at: "2026-09-26T14:24:21.4499707Z"
 leafwiki_creator_id: czdX0csDR
 leafwiki_last_author_id: czdX0csDR
 ---
 ## GitHub 下载慢？
+> 本节提供的加速器均免费，不保证好用，若您有更好的加速器请略过本节
 - Windows：
 
   使用 Steam302 加速器 <https://www.dogfight360.com/blog/18682>
