@@ -3,7 +3,7 @@ tags: []
 leafwiki_id: PIY3Ug_vg
 leafwiki_title: 插件
 leafwiki_created_at: "2026-09-07T13:25:03.3507552Z"
-leafwiki_updated_at: "2026-09-19T06:49:43.5057166Z"
+leafwiki_updated_at: "2026-09-30T05:00:22.0722433Z"
 leafwiki_creator_id: czdX0csDR
 leafwiki_last_author_id: czdX0csDR
 ---
@@ -18,6 +18,7 @@ leafwiki_last_author_id: czdX0csDR
 2026/07/26 12:54|CFSP
 2026/07/25 21:20|CoralFans
 2026/08/07 09:35|CoResourcePack
+2026/09/29 02:41|DGLab-lse
 2026/08/19 23:22|DynamicLights
 2026/07/14 10:59|EntityControl.lxl
 2026/07/29 21:55|FastMiner
