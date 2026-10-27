@@ -3,7 +3,7 @@ tags: []
 leafwiki_id: jAPZn1wDg
 leafwiki_title: 其他网站入口
 leafwiki_created_at: "2026-09-01T11:49:40.5090622Z"
-leafwiki_updated_at: "2026-09-19T07:05:59.6750413Z"
+leafwiki_updated_at: "2026-10-27T03:54:43.6771524Z"
 leafwiki_creator_id: czdX0csDR
 leafwiki_last_author_id: czdX0csDR
 ---
@@ -25,6 +25,7 @@ leafwiki_last_author_id: czdX0csDR
 - mcpedl https://mcpedl.com
 - CurseForge https://www.curseforge.com/minecraft
 - 蓝天服务端镜像 https://bluemirror.dmblock.top/#
+- 免费 YSM 模型搜集 https://futureysm.st
 
 ## 论坛
 
