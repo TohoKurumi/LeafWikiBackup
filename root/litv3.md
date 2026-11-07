@@ -3,7 +3,7 @@ tags: []
 leafwiki_id: BeUYXqjvg
 leafwiki_title: Java LiTV3 整合包
 leafwiki_created_at: "2026-10-26T12:36:56.4360054Z"
-leafwiki_updated_at: "2026-10-26T13:09:56.1251111Z"
+leafwiki_updated_at: "2026-11-07T01:41:51.7324007Z"
 leafwiki_creator_id: czdX0csDR
 leafwiki_last_author_id: czdX0csDR
 ---
@@ -32,3 +32,16 @@ leafwiki_last_author_id: czdX0csDR
   弹窗是否换用自带的整合包启动器，选择不换用。
   <img src="/assets/BeUYXqjvg/image.png" width="339.6">
   等待剩余文件自动下载补全，即可启动游戏。
+
+<br>
+
+## 启动时黑屏、长时间加载
+
+<br>
+
+打开“版本设置”，在“设置”页面点击“高级设置”，随后在“Java 虚拟机参数”的文本框内粘贴以下参数：
+```
+-Dsun.net.client.defaultConnectTimeout=10000 
+-Dsun.net.client.defaultReadTimeout=10000
+```
+ <img src="/assets/BeUYXqjvg/image-1794013425324-784.png" width="339.6">
